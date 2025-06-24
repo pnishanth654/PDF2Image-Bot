@@ -18,10 +18,9 @@ No need to upload them one by one manually — everything runs seamlessly using 
 
 **Step 2:** Open the project in UiPath Studio.
 
-**Step 3:** In `Main.xaml`, locate the two folder variables:
+**Step 3:** In `Main.xaml`, locate the folder variable:
 
 - `sourceFolder` → Set this to the path where your PDF files are stored.  
-- `destinationFolder` → Create and set a folder path where output images should be saved.
 
 **Step 4:** Run `Main.xaml`.
 
