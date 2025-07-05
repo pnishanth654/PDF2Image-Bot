@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g7OaP_GNZ0Wr9sTq6Xk-6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pdf_to_jpg" CVScreenId="7dd2057e-ec74-42d1-91d2-901853e16eda" CvElementArea="2179, 1627, 670, 140" CvType="Button" DesignTimeRectangle="2185, 1635, 660, 128" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='processTask' tag='BUTTON' type='' class='btn btn--process btn--red pdfjpg pulse' aaname='Convert to JPG ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Convert to JPG' /&gt;" Guid="7b659ffe-e1ed-4495-ac12-aea52d79472b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Convert PDF to JPG. Extract images from a PDF' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7dd2057e-ec74-42d1-91d2-901853e16eda" CvElementArea="2179, 1627, 670, 140" CvTextArea="2331, 1679, 318, 40" CvTextArgument="Convert to JPG" CvType="Button" DesignTimeRectangle="2334, 1651, 314, 96" ElementType="Text" FullSelectorArgument="&lt;webctrl id='processTaskTextBtn' tag='SPAN' /&gt;" FuzzyAccuracy="0.71" FuzzySelectorArgument="&lt;webctrl id='processTaskTextBtn' tag='SPAN' type='' class='' aaname='Convert to JPG' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Convert to JPG' /&gt;" Guid="046f743d-c2cf-41bc-aba0-c87515bfc425" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1eddc530f339e50844a0b61a2f7d6a0c.png" xmlns="">0i_dqHnrhpke2AAvQIXLy0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
