@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kTvZEcaNBkennVCJJ1mXbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pdf_to_jpg" CVScreenId="7181f672-6cee-4927-b6db-1f7d256989b7" CvElementArea="825, 974, 180, 54" CvTextArea="883, 992, 62, 28" CvTextArgument="Open" CvType="Button" DesignTimeRectangle="827, 977, 176, 52" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" Guid="1ad2b46d-6bd3-48df-a9aa-7a9f14cf0650" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="2c9103ff84d0394f4c963bf23d2978ec.png" xmlns="">0o722pwQSskyrwJqGduglTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xRfvQ5lVPEyaqA3hTDGVDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pdf_to_jpg" CVScreenId="b3419283-cee2-48ee-99c4-9a1c9a25bfc2" CvElementArea="1116, 775, 669, 172" CvTextArea="1273, 839, 358, 48" CvTextArgument="Select PDF files" CvType="Button" DesignTimeRectangle="1123, 783, 660, 160" ElementType="Text" FullSelectorArgument="&lt;webctrl id='pickfiles' tag='A' /&gt;" Guid="b0b5804d-56a6-4e9e-9359-3c02d723a261" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Convert PDF to JPG. Extract images from a PDF' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="c9cf82c263541c3ea7caa8516c91ed71.png" xmlns="">0Qk8Yt_6oX0yJcpwCemjHjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

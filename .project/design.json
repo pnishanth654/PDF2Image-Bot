@@ -1,0 +1,10 @@
+{
+  "Tags": [
+    {
+      "Key": "PDF conversion"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": []
+}
